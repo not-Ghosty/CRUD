@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "name": "pradeek",
+      "salary": "40000",
+      "company": "tcs",
+      "id": 6
+    },
+    {
+      "name": "kumar",
+      "salary": "20000",
+      "company": "tec",
+      "id": 7
+    },
+    {
+      "name": "dwadaddwada",
+      "salary": "dadw",
+      "company": "dawda",
+      "id": 8
+    }
+  ]
+}
