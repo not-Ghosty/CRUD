@@ -1,0 +1,6 @@
+Run these commands
+npm install
+
+npx json-server Backend/db.json --watch -p 4000
+
+npm run start
